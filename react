@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T16:14:08.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="15.9.4" etag="jqRZDCirAaBKnU-Z-Y1z" type="github"><diagram id="qtv_oj0Ap7Ejh4tQRUaw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-19T16:30:47.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="WnOjeoxZ7-Ch_xQZoxAe" version="15.9.4" type="github">
+  <diagram id="qtv_oj0Ap7Ejh4tQRUaw" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;shadow=1;fontStyle=1;fontColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="699" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;shadow=1;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="699" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#FFFFFF;strokeColor=none;shadow=0;opacity=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="111" y="450" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#FFFFFF;shadow=1;opacity=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="319.5" y="450" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;opacity=50;fontStyle=1;gradientColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="526" y="450" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-24" value="挂载Mount" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#000000;opacity=90;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-25" value="constructor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="124.5" y="540" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-26" value="getDerivedStateFromProps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="124.5" y="610" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-27" value="componentWillMount" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="124.5" y="660" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-28" value="render" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="124.5" y="710" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-29" value="componentDidUpdate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="124.5" y="770" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-30" value="更新Update" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-31" value="&amp;nbsp;componentWillReceiveProps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="550" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-32" value="getDerivedStateFromProps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="610" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-33" value="componentWillUpdate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="660" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-34" value="render" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="710" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-35" value="componentDidUpdate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="770" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-36" value="shouldComponentUpdate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="580" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-37" value="卸载Unmount" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="564.5" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-38" value="componentWillUnmount" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontColor=#FFFFFF;dashed=1;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="544.5" y="770" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-40" value="Render" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=50;fontStyle=1;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="540" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3mMRL6zMTpUehCYLHKzL-41" value="Commit" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=50;fontStyle=1;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
